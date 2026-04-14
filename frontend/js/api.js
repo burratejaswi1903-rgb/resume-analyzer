@@ -5,7 +5,7 @@
 
 const API = {
 // Force it to use your local backend
-    baseURL: 'http://localhost:5000',
+    baseURL: 'https://resume-analyzer-api-xxxx.onrender.com',
     /**
      * Analyze resume with file upload
      * @param {File} resumeFile - The resume file
